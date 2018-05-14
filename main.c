@@ -10,5 +10,7 @@ int main(int argc, char **argv)
     int test_bed;
     test_bed += 1;
 
+    printf("make a diffrence\n");
+
     return 0;
 }
