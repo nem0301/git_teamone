@@ -8,6 +8,7 @@ int main(int argc, char **argv)
     printf("test hello\n");
     printf("more issues\n");
     int test_bed;
+    test_bed += 1;
 
     return 0;
 }
